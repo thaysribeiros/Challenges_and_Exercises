@@ -122,7 +122,7 @@ def updateCardCompletion(cardID, dueComplete):
 # task = createTask('JobSearch', lst['id'], 'looking for jobs', '01/24/2022 21:00:20')
 #print("cardId: " + task['id'])
 #updateDueDate(task['id'], '01/24/2022 21:00:20')
-#updateCardCompletion("61e087ba500c9b2a35df549a", True)
+#updateCardCompletion(task['id'], True)
 
 # task = updateCardCompletion(task['id'], False)
 # task = updateDueDate(task['id'], '01/15/2022 21:00:20')
